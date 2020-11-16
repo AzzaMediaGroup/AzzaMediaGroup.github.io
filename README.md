@@ -1,2 +1,4 @@
 # AzzaMediaGroup.github.io
-The website itself
+Website coming soon :)
+
+Visit https://AzzaMods.com
